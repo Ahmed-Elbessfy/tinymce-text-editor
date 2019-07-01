@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tinymce-text-editor/precache-manifest.36f2c38b78ee2ac966bec6a25c7b6879.js"
+  "/tinymce-text-editor/precache-manifest.812576a3125e18510ac11a9b4d365408.js"
 );
 
 self.addEventListener('message', (event) => {
