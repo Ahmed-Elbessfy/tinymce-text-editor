@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tinymce-text-editor/static/css/main.498d002a.chunk.css",
+    "main.js": "/tinymce-text-editor/static/js/main.8e3ae0bb.chunk.js",
+    "main.js.map": "/tinymce-text-editor/static/js/main.8e3ae0bb.chunk.js.map",
+    "runtime~main.js": "/tinymce-text-editor/static/js/runtime~main.99222498.js",
+    "runtime~main.js.map": "/tinymce-text-editor/static/js/runtime~main.99222498.js.map",
+    "static/js/2.efbca837.chunk.js": "/tinymce-text-editor/static/js/2.efbca837.chunk.js",
+    "static/js/2.efbca837.chunk.js.map": "/tinymce-text-editor/static/js/2.efbca837.chunk.js.map",
+    "index.html": "/tinymce-text-editor/index.html",
+    "precache-manifest.36f2c38b78ee2ac966bec6a25c7b6879.js": "/tinymce-text-editor/precache-manifest.36f2c38b78ee2ac966bec6a25c7b6879.js",
+    "service-worker.js": "/tinymce-text-editor/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/tinymce-text-editor/static/css/main.498d002a.chunk.css.map"
+  }
+}
